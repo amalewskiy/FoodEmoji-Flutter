@@ -1,4 +1,3 @@
 # Food emoji  
 
-  
-<a href="https://ibb.co/C9ffYVb"><img src="https://i.ibb.co/xgNNBz1/ezgif-com-gif-maker.gif" alt="EmojiApplication" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/7vvD3vR/emoji.gif" alt="emoji" border="0"></a>>
